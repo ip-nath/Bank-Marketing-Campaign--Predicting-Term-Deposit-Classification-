@@ -1,1 +1,5 @@
 # Bank-Marketing-Campaign--Predicting-Term-Deposit-Classification-
+Problem Definition: One of the most common marketing strategies in Banking sector is direct marketing campaigns through phone calls, it is a form of advertising that allows organizations to communicate directly with customers to offer their services based on the client’s existing bank profile. Here we will consider term deposit as a banking service.
+
+ Business Goal: To build a list of target customers who are likely to subscribe a term deposit. Project Objective: We will convert this problem into a machine learning classification problem. We will build a model to predict whether a client will subscribe a term deposit or not so that the banks can arrange a better management of available resources by focusing on the potential customers “predicted” by the classifier. This will help them to design a more efficient and precise campaign strategy to reduce the costs, improve the profits and customer satisfaction.
+Data Mining Technique to be used: Classification
